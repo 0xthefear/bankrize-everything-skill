@@ -4,8 +4,8 @@ Bankrize Everything is a Bankr skill for analyzing Base tokens using the public 
 
 Public app:
 
-/u/0xc027ecbd0fa38f667a25550aae56b14c73931d5a/apps/bankrize-everything
-
+[/u/0xc027ecbd0fa38f667a25550aae56b14c73931d5a/apps/bankrize-everything
+](https://bankr.bot/u/0xc027ecbd0fa38f667a25550aae56b14c73931d5a/apps/bankrize-everything)
 ## What it does
 
 Bankrize helps users analyze Base tokens with:
