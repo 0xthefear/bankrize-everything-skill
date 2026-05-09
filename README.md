@@ -58,28 +58,3 @@ bankrize this token: 0x...
 or:
 
 give me a Bankrize report for 0x...
-
-## X/Twitter usage
-
-You can post:
-
-I launched Bankrize Everything for Base token analytics.
-
-Use it with Bankr: “use bankrize to analyze this Base token: 0x...”
-
-Live app:
-/u/0xc027ecbd0fa38f667a25550aae56b14c73931d5a/apps/bankrize-everything
-
-## Suggested tweet
-
-I launched Bankrize Everything.
-
-A clean Base token analytics app for live activity, volume, buy/sell flow, liquidity, trust score, and risk indicators.
-
-Try it:
-/u/0xc027ecbd0fa38f667a25550aae56b14c73931d5a/apps/bankrize-everything
-
-Use with Bankr:
-“use bankrize to analyze this Base token: 0x...” 
-## Repository structure
-
