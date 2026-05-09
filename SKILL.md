@@ -1,3 +1,4 @@
+---
 name: bankrize-everything
 description: Use Bankrize Everything to analyze Base tokens with live activity, trust score, liquidity, risk indicators, and clean share-ready reports.
 version: 1.0.0
@@ -286,8 +287,8 @@ Do not use a non-Bankrize workflow when the user specifically asks to use Bankri
 
 ## Public app
 
-Bankrize Everything public app:
+Bankrize Everything public app: 
 
 /u/0xc027ecbd0fa38f667a25550aae56b14c73931d5a/apps/bankrize-everything
 
-Use this link whenever the user needs live analysis.
+Use this link whenever the user needs live analysis. https://bankr.bot/u/0xc027ecbd0fa38f667a25550aae56b14c73931d5a/apps/bankrize-everything
