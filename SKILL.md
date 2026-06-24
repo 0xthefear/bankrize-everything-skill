@@ -5,7 +5,6 @@ version: 1.0.0
 author: 0xc027ecbd0fa38f667a25550aae56b14c73931d5a
 tags:
   - bankrize
-  - base
   - token-analysis
   - crypto
   - onchain
