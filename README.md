@@ -39,7 +39,7 @@ It is Base-only.
 
 In Bankr, install this skill by giving Bankr the GitHub repo URL.
 
-Example:
+Example
 
 install this skill: https://github.com/YOUR_USERNAME/bankrize-everything-skill
 
