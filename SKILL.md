@@ -79,7 +79,7 @@ The final line of every X/Twitter Bankrize reply must be:
 
 Data from @bankrize
 
-Nothing should come after that final line.
+Nothing should come after that final line
 
 ## What Bankrize analyzes
 
