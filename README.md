@@ -12,6 +12,18 @@ https://bankr.bot/u/0xc027ecbd0fa38f667a25550aae56b14c73931d5a/apps/bankrize-eve
 
 Full documentation: [docs/DOCUMENTATION.md](docs/DOCUMENTATION.md)
 
+## Screenshots
+
+![Bankrize dashboard overview](https://i.imgur.com/77Q2NqK.png)
+
+![Token report](https://i.imgur.com/lDgdx3z.png)
+
+![Buy / sell flow](https://i.imgur.com/x15TTqC.png)
+
+![Trust score and risk indicators](https://i.imgur.com/FzLwnGa.png)
+
+![Top pools](https://i.imgur.com/bkeAQsx.png)
+
 ## What it does
 
 When given a valid Base token, Bankrize reports:
