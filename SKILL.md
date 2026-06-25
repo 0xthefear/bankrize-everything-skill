@@ -35,7 +35,7 @@ Use this skill when the user says any of:
 - Bankrize on Base
 - Bankr use bankrize
 - use bankrize to analyze this token
-- bnkrize this
+- bnkrize
 - $bnkrize this
 - bankrize
 
