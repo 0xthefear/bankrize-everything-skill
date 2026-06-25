@@ -2,6 +2,16 @@
 
 Bankrize Everything is a read-only Bankr skill + app for analyzing tokens on Base. It turns a ticker or contract address into a clean, share-ready report: live trading activity, buy/sell flow, a trust score, risk indicators, links, and top pools.
 
+## Documentation index
+
+- [DOCUMENTATION.md](./DOCUMENTATION.md) — this file (overview, features, how it works)
+- [USAGE.md](./USAGE.md) — chat, app, and X/Twitter usage examples
+- [TRUST_SCORE.md](./TRUST_SCORE.md) — trust score bands and what feeds them
+- [FAQ.md](./FAQ.md) — common questions
+- [../SECURITY.md](../SECURITY.md) — read-only scope and security policy
+- [../CONTRIBUTING.md](../CONTRIBUTING.md) — how to contribute
+- [../CHANGELOG.md](../CHANGELOG.md) — version history
+
 ## Overview
 
 - **Network:** Base only
@@ -45,7 +55,7 @@ The trust score is a 0–100 rating derived from the returned market and activit
 - **35–69:** medium risk
 - **0–34:** high risk
 
-Each score is accompanied by short, human-readable reasons. The score is a heuristic, not a guarantee of safety.
+Each score is accompanied by short, human-readable reasons. The score is a heuristic, not a guarantee of safety. See [TRUST_SCORE.md](./TRUST_SCORE.md) for the full breakdown.
 
 ## Installation
 
@@ -64,7 +74,7 @@ In chat:
 - `give me a Bankrize report for 0x...`
 - `Bankrize on Base: 0x...`
 
-In the app: paste a ticker or Base contract address and hit Bankrize.
+In the app: paste a ticker or Base contract address and hit Bankrize. More examples in [USAGE.md](./USAGE.md).
 
 ## X / Twitter format
 
@@ -94,6 +104,8 @@ Rules: don't add `$` before the token unless the user did; never start with "Ban
 - Read-only — no swaps, buys, sells, transfers, approvals, claims, mints, deployments, bets, automations, or signatures
 - Does not include Base Discovery, Watchlist, Creator Holders, Bankrize Verdict, or Smart Tags sections
 - Not financial advice; never promises guaranteed safety; never claims liquidity is locked or that a creator holds/sold unless the data confirms it
+
+See [../SECURITY.md](../SECURITY.md) for the full scope and security policy.
 
 ## Credits
 
