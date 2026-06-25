@@ -5,6 +5,7 @@ Bankrize Everything is a read-only Bankr skill + app for analyzing tokens on Bas
 ## Documentation index
 
 - [DOCUMENTATION.md](./DOCUMENTATION.md) — this file (overview, features, how it works)
+- [TOKEN.md](./TOKEN.md) — the $bnkrize token (burn, contract, launcher)
 - [USAGE.md](./USAGE.md) — chat, app, and X/Twitter usage examples
 - [TRUST_SCORE.md](./TRUST_SCORE.md) — trust score bands and what feeds them
 - [FAQ.md](./FAQ.md) — common questions
@@ -18,9 +19,20 @@ Bankrize Everything is a read-only Bankr skill + app for analyzing tokens on Bas
 - **Type:** read-only token intelligence (no trading, no signing)
 - **Surfaces:** a Bankr App (interactive dashboard) and a Bankr Skill (chat + X/Twitter workflow)
 - **Author:** 0xthefear
+- **Token:** $bnkrize on Base — see [TOKEN.md](./TOKEN.md)
 
 **Live app:**
 https://bankr.bot/u/0xc027ecbd0fa38f667a25550aae56b14c73931d5a/apps/bankrize-everything
+
+## The $bnkrize token
+
+Bankrize is paired with the **$bnkrize** token on Base.
+
+- **Contract:** `0x3d59236677AdcfC9dbACB141bA65C0b4c6230Ba3`
+- **Launcher:** built with the bankrbot launcher
+- **Burn:** $bnkrize has a burn objective and burns — **2.5% burned** so far
+
+Full details in [TOKEN.md](./TOKEN.md).
 
 ## Features
 
@@ -109,4 +121,4 @@ See [../SECURITY.md](../SECURITY.md) for the full scope and security policy.
 
 ## Credits
 
-Built by 0xthefear. Data and workflow: @bankrize.
+Built by 0xthefear. Data and workflow: @bankrize. Token: $bnkrize on Base, built with the bankrbot launcher.
