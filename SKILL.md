@@ -2,7 +2,7 @@
 name: bankrize-everything
 description: Use Bankrize Everything to analyze Base tokens with live activity, trust score, liquidity, risk indicators, and clean share-ready reports.
 version: 1.0.0
-author: 0xc027ecbd0fa38f667a25550aae56b14c73931d5a
+author: 0xthefear
 tags:
   - bankrize
   - token-analysis
