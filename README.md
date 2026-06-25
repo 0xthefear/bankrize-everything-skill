@@ -45,6 +45,16 @@ When given a valid Base token, Bankrize reports:
 - It is **Base-only**.
 - It does not include Base Discovery, Watchlist, Creator Holders, Bankrize Verdict, or Smart Tags sections.
 
+## $bnkrize token
+
+Bankrize is paired with the **$bnkrize** token on Base.
+
+- **Contract:** `0x3d59236677AdcfC9dbACB141bA65C0b4c6230Ba3`
+- **Launcher:** built with the bankrbot launcher
+- **Burn:** $bnkrize has a burn objective and burns — **2.5% burned** so far
+
+Full details in [docs/TOKEN.md](docs/TOKEN.md).
+
 ## Install
 
 In Bankr, install this skill by giving Bankr the GitHub repo URL:
@@ -78,6 +88,7 @@ Each score comes with short, human-readable reasons. It is a heuristic, not a gu
 ## Documentation
 
 - [docs/DOCUMENTATION.md](docs/DOCUMENTATION.md) — full overview, features, and how it works
+- [docs/TOKEN.md](docs/TOKEN.md) — the $bnkrize token (burn, contract, launcher)
 - [docs/USAGE.md](docs/USAGE.md) — chat, app, and X/Twitter usage examples
 - [docs/TRUST_SCORE.md](docs/TRUST_SCORE.md) — trust score bands and inputs
 - [docs/FAQ.md](docs/FAQ.md) — common questions
@@ -87,4 +98,4 @@ Each score comes with short, human-readable reasons. It is a heuristic, not a gu
 
 ## Credits
 
-Built by [0xthefear](https://github.com/0xthefear). Data and workflow: [@bankrize](https://x.com/bankrize).
+Built by [0xthefear](https://github.com/0xthefear). Data and workflow: [@bankrize](https://x.com/bankrize). Token: $bnkrize on Base, built with the bankrbot launcher.
