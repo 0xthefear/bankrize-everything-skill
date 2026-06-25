@@ -143,7 +143,7 @@ If the user gives a contract address:
 
 - Treat it as the token to analyze.
 - It must look like an EVM address:
-  - starts with 0x
+  - starts with 0x...
 
 /u/0xc027ecbd0fa38f667a25550aae56b14c73931d5a/apps/bankrize-everything
 
