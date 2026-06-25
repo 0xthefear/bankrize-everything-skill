@@ -1,30 +1,32 @@
-# $bnkrize Token
+# The $bnkrize Token
 
-$bnkrize is the token associated with the Bankrize Everything skill and app.
+$bnkrize is the token paired with the Bankrize Everything skill + app on **Base**.
 
 ## At a glance
 
-| Field | Value |
-| --- | --- |
-| Token | $bnkrize |
-| Network | Base |
-| Contract | `0x3d59236677AdcfC9dbACB141bA65C0b4c6230Ba3` |
-| Launcher | Built with the bankrbot launcher |
-| Burned | 2.5% |
+| | |
+|---|---|
+| **Token** | $bnkrize |
+| **Network** | Base |
+| **Contract (CA)** | `0x3d59236677AdcfC9dbACB141bA65C0b4c6230Ba3` |
+| **Launcher** | built with the bankrbot launcher |
+| **Burn** | has a burn objective and burns — **2.5% burned** so far |
 
-## Burn
+## Purpose
 
-$bnkrize has a burn objective — it burns. As of now, **2.5% of supply has been burned.**
-
-Burning permanently removes tokens from circulating supply by sending them to a dead address, reducing the total amount that can ever circulate.
-
-## Launcher
-
-$bnkrize was created with the **bankrbot launcher**.
+$bnkrize is built around a **burn objective**: it burns supply over time. As of now, **2.5%** of supply has been burned.
 
 ## Links
 
-- Contract on BaseScan: https://basescan.org/token/0x3d59236677AdcfC9dbACB141bA65C0b4c6230Ba3
-- Analyze it in the app: `$bnkrize bnkrize` or paste the contract into Bankrize
+- **Token contract (BaseScan):** https://basescan.org/token/0x3d59236677AdcfC9dbACB141bA65C0b4c6230Ba3
+- **$bnkrize on X:** https://x.com/bankrize
+- **App:** https://bankr.bot/u/0xc027ecbd0fa38f667a25550aae56b14c73931d5a/apps/bankrize-everything
 
-> Note: figures here reflect what has been provided by the project. This page is informational and is not financial advice.
+## Founder
+
+- **0xthefear** — https://x.com/0xthefear
+- GitHub: https://github.com/0xthefear
+
+## Notes
+
+This page is informational, not financial advice. Always verify the contract address yourself on BaseScan before interacting with any token.
