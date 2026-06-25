@@ -1,7 +1,7 @@
 # Bankrize Everything Skill
 
 ![License](https://img.shields.io/badge/license-MIT-blue)
-![Version](https://img.shields.io/badge/version-1.0.0-8b5cf6)
+![Version](https://img.shields.io/badge/version-1.1.0-8b5cf6)
 ![Network](https://img.shields.io/badge/network-Base-0052ff)
 ![Read--only](https://img.shields.io/badge/mode-read--only-22c55e)
 
@@ -9,8 +9,6 @@ Bankrize Everything is a read-only Bankr skill + app for analyzing tokens on **B
 
 **Public app:**
 https://bankr.bot/u/0xc027ecbd0fa38f667a25550aae56b14c73931d5a/apps/bankrize-everything
-
-Full documentation: [docs/DOCUMENTATION.md](docs/DOCUMENTATION.md)
 
 ## Screenshots
 
@@ -65,6 +63,8 @@ After installing, you can say:
 - `Bankrize on Base: 0x...`
 - `$bnkrize LFI`
 
+In the app: paste a ticker or Base contract address and hit Bankrize.
+
 ## Trust Score
 
 A 0–100 heuristic rating derived from market and activity data:
@@ -73,7 +73,17 @@ A 0–100 heuristic rating derived from market and activity data:
 - **35–69** — medium risk
 - **0–34** — high risk
 
-Each score comes with short, human-readable reasons. It is a heuristic, not a guarantee of safety.
+Each score comes with short, human-readable reasons. It is a heuristic, not a guarantee of safety. See [docs/TRUST_SCORE.md](docs/TRUST_SCORE.md) for the full breakdown.
+
+## Documentation
+
+- [docs/DOCUMENTATION.md](docs/DOCUMENTATION.md) — full overview, features, and how it works
+- [docs/USAGE.md](docs/USAGE.md) — chat, app, and X/Twitter usage examples
+- [docs/TRUST_SCORE.md](docs/TRUST_SCORE.md) — trust score bands and inputs
+- [docs/FAQ.md](docs/FAQ.md) — common questions
+- [SECURITY.md](SECURITY.md) — read-only scope and security policy
+- [CONTRIBUTING.md](CONTRIBUTING.md) — how to contribute
+- [CHANGELOG.md](CHANGELOG.md) — version history
 
 ## Credits
 
